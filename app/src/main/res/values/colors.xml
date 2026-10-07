@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_theme_dark_background">#0C0E14</color>
+    <color name="md_theme_dark_surface">#141824</color>
+    <color name="md_theme_dark_surface_variant">#1E2435</color>
+    <color name="md_theme_dark_card">#171C2B</color>
+    <color name="md_theme_dark_card_stroke">#252E44</color>
+    <color name="md_theme_dark_primary">#6C5CE7</color>
+    <color name="md_theme_dark_primary_container">#2B2368</color>
+    <color name="md_theme_dark_primary_light">#A29BFE</color>
+    
+    <color name="income_green">#00E676</color>
+    <color name="income_green_bg">#143825</color>
+    <color name="expense_rose">#FF5252</color>
+    <color name="expense_rose_bg">#3D1B22</color>
+    <color name="amber_warning">#FFB300</color>
+    <color name="cyan_accent">#00D2D3</color>
+    <color name="indigo_accent">#54A0FF</color>
+    
+    <color name="text_high_emphasis">#FFFFFF</color>
+    <color name="text_medium_emphasis">#94A3B8</color>
+    <color name="text_low_emphasis">#64748B</color>
+    
+    <color name="divider_color">#1F293D</color>
+</resources>
